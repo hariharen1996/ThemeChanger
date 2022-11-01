@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.n-heading {
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.not-text {
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+
+.n-dark {
+  color: #000000;
+}
+
+.n-light {
+  color: #ffffff;
+}
+
+.text-dark {
+  color: #000000;
+}
+
+.text-light {
+  color: #ffffff;
+}
+
+.img {
+  width: 200px;
+}
+
+.bgn-dark {
+  background-color: #000000;
+}
+
+.bgn-change {
+  background-color: #ffffff;
+}
